@@ -1,4 +1,4 @@
-Red - R
+Red - R 
 Green - G
 Blue - B
 Yellow - Y
@@ -7,3 +7,13 @@ Pink - P
 Black - B
 White - W
 Orange - O
+
+
+New changes:
+
+Red Gate.
+Green Tree in.
+Blue Iglu.
+Yellow Pieno.
+Perple Marbel.
+Pink Zinc.
